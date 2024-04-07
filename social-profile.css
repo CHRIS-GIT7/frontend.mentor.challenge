@@ -1,0 +1,131 @@
+.profile-picture {
+width: 100px;
+border-radius: 100px;
+margin-left: 150px;
+
+}
+
+.username {
+  text-align: center;
+  margin-bottom: 0;
+
+}
+
+.location {
+  margin-top: -12px;
+  text-align: center;
+  color: rgb(231, 231, 53);
+  margin-bottom: 30px;
+}
+
+.about {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.body-work {
+background-color: rgb(39, 37, 37);
+align-content: center;
+margin-top: 100px;
+padding-bottom: 100px;
+padding-top: 20px;
+padding-left: 0;
+border-radius: 8px;
+} 
+
+body {
+  max-width: 400px;
+  margin: auto;
+  font-family: roboto, Arial;
+  color: aliceblue;
+  background-color: black;
+}
+
+.button-1 {
+  margin-bottom: 10px;
+}
+
+.button-1 {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  background-color: rgb(59, 56, 56);
+  text-align: center;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.button-2 {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  background-color: rgb(59, 56, 56);
+  text-align: center;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.button-3 {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  background-color: rgb(59, 56, 56);
+  text-align: center;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.button-4 {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 10px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  background-color: rgb(59, 56, 56);
+  text-align: center;
+  border-radius: 8px;
+  cursor: pointer;
+}
+ 
+.button-5 {
+  margin-left: 40px;
+  margin-right: 40px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  background-color: rgb(59, 56, 56);
+  text-align: center;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+
+.button-1:hover {
+  background-color: rgb(231, 231, 53);
+  color: black;
+}
+
+.button-2:hover {
+  background-color: rgb(231, 231, 53); 
+  color: black;
+}
+
+.button-3:hover {
+  background-color: rgb(231, 231, 53); 
+  color: black;
+}
+
+.button-4:hover {
+  background-color: rgb(231, 231, 53); 
+  color: black;
+}
+
+.button-5:hover {
+  background-color: rgb(231, 231, 53); 
+  color: black;
+}

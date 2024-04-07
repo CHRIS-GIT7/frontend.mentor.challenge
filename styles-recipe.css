@@ -1,0 +1,99 @@
+.omelette-image {
+  max-width:100%;
+  height: auto;
+  border-style: none;
+  border-radius: 8px;
+  margin-top: 40px;
+}
+
+.intro {
+  line-height:1.5;
+}
+
+
+.prep-time {
+  background-color:rgb(253, 242, 244);
+  padding-top: 2px;
+  padding-left: 20px;
+  padding-bottom: 13px;
+  border-radius: 8px;
+  margin-bottom: 40px; 
+}
+
+body {
+  font-family: roboto, Arial;
+  max-width: 1440px;
+  margin: auto;
+  background-color: rgb(248, 229, 232);
+}
+
+.body-work {
+  background-color: white;
+  border-radius: 8px;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  margin-top: 100px;
+  margin-bottom:100px;  
+}
+.ingredients {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: grey;
+  padding-bottom: 20px;
+  margin-bottom: 40px;
+  
+  
+}
+
+.instructions {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: grey;
+  padding-bottom: 20px;
+  margin-bottom: 40px;
+  
+}
+
+
+.nutrition-1 {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: grey;
+  padding-bottom: 15px;
+}
+
+
+.nutrition-2 {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: grey;
+  padding-bottom: 15px;
+  
+}
+
+
+.nutrition-3 {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-bottom-color: grey;
+  padding-bottom: 15px;
+  
+}
+
+h2 {
+  color: rgb(155, 108, 75); 
+}
+
+
+ol {
+  line-height: 1.5;
+}
+ 
+span {
+  font-weight: 700;
+}
+
+.quantity {
+  color: rgb(155, 108, 75); 
+}
