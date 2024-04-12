@@ -1,0 +1,97 @@
+body {
+  max-width: 500px;
+  margin: auto;
+ background-image: url(icons/background-pattern-desktop.svg);
+ background-position: top;
+ background-repeat: no-repeat;
+ background-color: hsl(275, 100%, 97%);
+ font-size: 16px;
+ font-family:figtree;
+}
+
+.head-section {
+  display: flex;
+}
+
+h1 {
+  margin-left: 20px;
+}
+
+.body-content {
+  background-color:hsl(0, 0%, 100%);
+  padding: 40px;
+  margin-top: 155px;
+  margin-bottom: 100px;
+  border-radius: 15px;
+  
+}
+
+.question {
+  display: flex;
+  margin-top: 20px;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.question:hover {
+  color: rgb(161, 12, 161);
+}
+
+
+.answer {
+  color:hsl(300, 2%, 52%);
+}
+
+.answer-hidden {
+  display: none;
+}
+
+span {
+display: inline-block;
+ width: 30px;
+ height: 30px;
+ margin-top: 10px;
+ background-repeat: no-repeat;
+ vertical-align: middle;
+ cursor: pointer;
+ color: transparent;
+}
+
+
+.plus {
+  background-image: url(icons/icon-plus.svg);
+}
+
+.minus {
+  background-image: url(icons/icon-minus.svg);
+}
+
+.toggle-icon-1 {
+  width: 40PX;
+ margin-left: 75PX; 
+ color: transparent;
+ 
+}
+
+.toggle-icon-2 {
+  width: 40PX;
+ margin-left: 220PX;
+ 
+}
+
+.toggle-icon-3 {
+  width: 40PX;
+  margin-left: 45PX;
+  
+}
+.toggle-icon-4 {
+  width: 40PX;
+  margin-left: 78px;
+  
+}
+
+.faq {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color:hsl(285, 29%, 97%) ;
+}
